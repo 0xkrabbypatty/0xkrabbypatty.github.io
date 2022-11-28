@@ -2,8 +2,10 @@
 layout: post
 title:  "Interesting Blogs"
 date:   2022-10-10 13:31:16 -0800
-categories: jekyll update
+categories: update
+comments: false
 ---
+
 Below is a list of stuff I find interesting
 
 Blogs/forums
