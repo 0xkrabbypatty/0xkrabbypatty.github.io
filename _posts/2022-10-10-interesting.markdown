@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interesting Blogs"
+title:  "Interesting Stuff"
 date:   2022-10-10 13:31:16 -0800
 categories: update
 comments: false
@@ -23,6 +23,13 @@ TV Shows
 - Game of Thrones
 - Breaking Bad
 
-Crypto problems
+Crypto(graphy)
+- 0xPARC
+- Personae Labs
+- Lattice
 - [Socialist Millionare's Problem](https://en.wikipedia.org/wiki/Socialist_millionaire_problem#Off-the-Record_Messaging_protocol)
 - [The Dining Cryptographer's Problem](https://users.ece.cmu.edu/~adrian/731-sp04/readings/dcnets.html)
+
+Legal/Ethics
+- DeFi regulation (especially frontends! MiCA, DCCPA, Lummis-Gillibrand)
+- AI Safety/red teaming 
