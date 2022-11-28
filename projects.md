@@ -12,3 +12,6 @@ Started working on a private pilots license summer 2021 after I got back from Al
 
 ## Programming
 I am trying to learn more about programming because I think knowing how to read code will be a very useful skill in the future. I did some Java and Python in highschool although didn't touch code for a long time after that. Recently, I have been doing a lot of R for my econometrics classes. I plan on learning some Rust and Python in the future! 
+
+## Writing
+I haven't written much in a while, but I've found that it is a great way to organize your thoughts and learn things. When I was first researching crypto I started a Medium and Substack blog which helped the learning process tremendously. Click [here](https://krabbypatty.substack.com/) and [here](https://medium.com/@joeandersen) to see some of my early posts. Hopefully I'll get back to writing soon!
