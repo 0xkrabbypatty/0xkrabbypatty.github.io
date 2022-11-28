@@ -33,3 +33,4 @@ Crypto(graphy)
 Legal/Ethics
 - DeFi regulation (especially frontends! MiCA, DCCPA, Lummis-Gillibrand)
 - AI Safety/red teaming 
+- Online privacy/data rights
