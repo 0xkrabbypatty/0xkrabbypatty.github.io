@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OBG Projects"
-date:   2022-10-10 13:31:16 -0800
+date:   2022-10-15 13:31:16 -0800
 categories: jekyll update
 ---
 This post keeps track of some of the projects I am working on for the Oregon Blockchain Group!
