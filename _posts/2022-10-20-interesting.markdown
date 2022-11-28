@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interesting Blogs"
-date:   2022-11-18 13:31:16 -0800
+date:   2022-10-20 13:31:16 -0800
 categories: jekyll update
 ---
 Below is a list of stuff I find interesting
