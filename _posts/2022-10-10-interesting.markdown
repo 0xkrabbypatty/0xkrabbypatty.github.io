@@ -17,12 +17,6 @@ Blogs/forums
 - [Explained From First Principles](https://explained-from-first-principles.com/)
 - [Cronokirby's Blog](https://cronokirby.com/)
 
-TV Shows
-- Entourage
-- Mandalorian
-- Game of Thrones
-- Breaking Bad
-
 Crypto(graphy)
 - 0xPARC
 - Personae Labs
