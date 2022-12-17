@@ -16,15 +16,10 @@ Blogs/forums
 - [Scott Aaronson's Blog](https://scottaaronson.blog/)
 - [Explained From First Principles](https://explained-from-first-principles.com/)
 - [Cronokirby's Blog](https://cronokirby.com/)
-
-Crypto(graphy)
-- 0xPARC
-- Personae Labs
-- Lattice
-- [Socialist Millionare's Problem](https://en.wikipedia.org/wiki/Socialist_millionaire_problem#Off-the-Record_Messaging_protocol)
-- [The Dining Cryptographer's Problem](https://users.ece.cmu.edu/~adrian/731-sp04/readings/dcnets.html)
+- [0xPARC](https://0xparc.org/)
+- [Daniel D. McKinnon's Blog](https://www.ddmckinnon.com/)
 
 Legal/Ethics
 - DeFi regulation (especially frontends! MiCA, DCCPA, Lummis-Gillibrand)
-- AI Safety/red teaming 
-- Online privacy/data rights
+- AI Safety/red teaming and ML training ([constitutional AI](https://www.anthropic.com/constitutional.pdf))
+- Online privacy & data rights
