@@ -14,6 +14,7 @@ Blogs/forums
 - [Entropy1729](https://www.entropy1729.com/)
 - [ZK Research](https://zkresear.ch/)
 - [Scott Aaronson's Blog](https://scottaaronson.blog/)
+- [Anything on Wei Dai's website](http://www.weidai.com/)
 - [Explained From First Principles](https://explained-from-first-principles.com/)
 - [Cronokirby's Blog](https://cronokirby.com/)
 - [0xPARC](https://0xparc.org/)
