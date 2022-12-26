@@ -19,8 +19,8 @@ Blogs/forums
 - [Cronokirby's Blog](https://cronokirby.com/)
 - [0xPARC](https://0xparc.org/)
 - [Daniel D. McKinnon's Blog](https://www.ddmckinnon.com/)
+- [Decentralized Thoughts](https://decentralizedthoughts.github.io/start-here/)
+- [Kestrel Institute](https://www.kestrel.edu/research/)
+- [Runtime Verification](https://research.runtimeverification.com/)
 
-Legal/Ethics
-- DeFi regulation (especially frontends! MiCA, DCCPA, Lummis-Gillibrand)
-- AI Safety/red teaming and ML training ([constitutional AI](https://www.anthropic.com/constitutional.pdf))
-- Online privacy & data rights
+
