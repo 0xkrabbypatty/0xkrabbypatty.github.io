@@ -14,4 +14,4 @@ I started working on a private pilots license summer 2021 after I got back from 
 I am trying to learn more about programming because I think knowing how to read code will be a very useful skill in the future. Recently I have been doing a lot of R for my econometrics classes. I am also working through the Rustlings excercises in my free time as well as the occasional Solidity project!
 
 ## Writing
-I haven't written much in a while, but I've found that it is a great way to organize your thoughts and learn things. Click [here](https://krabbypatty.substack.com/)to see some of my posts. Hopefully I'll get back to writing soon!
+I occasionally post some longer form writing at [krabbypatty.substack.com](https://krabbypatty.substack.com/). 
